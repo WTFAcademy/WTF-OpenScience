@@ -1,6 +1,7 @@
 # 为了国家安全，版权改革势在必行
 
 翻译: 0xAA
+
 来源: ([annas-archive.li/blog，2025年1月31日])[https://annas-archive.org/blog/ai-copyright.html]
 
 
